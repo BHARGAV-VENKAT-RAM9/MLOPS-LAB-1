@@ -1,0 +1,13 @@
+
+project: cse_employability_project
+
+registry: data/registry.db
+
+provider: local
+
+offline_store:
+  type: file
+
+online_store:
+  type: sqlite
+  path: data/online_store.db
