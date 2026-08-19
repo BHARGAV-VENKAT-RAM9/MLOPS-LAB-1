@@ -270,7 +270,7 @@ The preprocessing stage generated processed training/testing datasets and a reus
 ## 10. Project Structure
 
 ```text
-231FA04D08MLOps-Feast-SkillGap/
+231FA04D09MLOps-Feast-SkillGap/
 │
 ├── README.md
 ├── dataset/
